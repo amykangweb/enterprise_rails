@@ -1,5 +1,6 @@
 module Physical
 	module Movies
-		class Movie < ActiveRecord::Base
+		class Physical::Movies::Movie < Physical::ApplicationRecord
+			include SetPrimary
 	end
 end

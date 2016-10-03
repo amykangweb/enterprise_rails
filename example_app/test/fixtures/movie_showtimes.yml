@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  movie: one
+  theatre: one
+  auditorium: MyString
+  start_time: 2016-10-02 23:11:50
+  primary: MyString
+
+two:
+  movie: two
+  theatre: two
+  auditorium: MyString
+  start_time: 2016-10-02 23:11:50
+  primary: MyString

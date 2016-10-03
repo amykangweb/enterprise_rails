@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  length_minutes: 1
+  rating: MyString
+  primary: MyString
+
+two:
+  name: MyString
+  length_minutes: 1
+  rating: MyString
+  primary: MyString
